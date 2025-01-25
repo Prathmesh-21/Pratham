@@ -1,1 +1,1 @@
-print("Hello Punekars. Ganapati Bappa Moraya !!")
+print("Ganpati Bappa Moraya !!")
